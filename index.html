@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Travel Explorer 🌍</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Travel Explorer 🌍</h1>
+    <input type="text" id="search" placeholder="Search countries..." />
+    <button id="theme-toggle">🌙 Dark Mode</button>
+  </header>
+
+  <section class="carousel">
+    <div class="slides">
+      <img src="https://source.unsplash.com/1600x500/?paris" alt="Paris" />
+      <img src="https://source.unsplash.com/1600x500/?newyork" alt="New York" />
+      <img src="https://source.unsplash.com/1600x500/?tokyo" alt="Tokyo" />
+    </div>
+  </section>
+
+  <div id="loader">Loading countries...</div>
+  <main id="countries-container"></main>
+
+  <footer>
+    <p>&copy; 2025 Travel Explorer. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
