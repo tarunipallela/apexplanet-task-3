@@ -1,4 +1,4 @@
-# ✈️ DreamTrips – Travel Explorer | Task 3 | ApexPlanet Internship
+Travel Explorer | Task 3 | ApexPlanet Internship
 
 This project was built as part of **Task 3** of the **45-Day Web Development Internship** organized by **ApexPlanet**.
 
